@@ -36,6 +36,20 @@
         }
         
     ],
+    "roles": [
+        {
+            "id": 0,
+            "name": "Ramirez Vasquez",
+            "organizationId": 1,
+            "membershipId": 1
+        },
+        {
+            "id": 1,
+            "name": "Ginger Poole",
+            "organizationId": 1,
+            "membershipId": 1
+        }
+    ],
     "organizations": [
         {
             "id": 0,
