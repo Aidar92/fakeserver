@@ -5,28 +5,13 @@
             "boxeId": 1,
             "orderId": 4,
             "plantationId": 3,
-            "clientId": 2,
-            "claim": 3,
-            "marker": "excep",
-            "flowerId": 3,
-            "varietyId": 3,
-            "sizeId": 3,
-            "price": "9.93",
-            "stemsId": 1,
-            "reasonId": 4,
-            "adresseeId": 4
+            "clientId": 2
         },
         {
             "id": 3,
             "boxeId": 0,
             "orderId": 4,
             "plantationId": 0,
-            "clientId": 1,
-            "claim": 1,
-            "marker": "excepteur",
-            "flowerId": 2,
-            "varietyId": 2,
-            "sizeId": 1,
             "price": "9.9329"
         }        
     ],
@@ -154,36 +139,19 @@
             "organization": "sit",
             "user": "nulla",
             "department": "laboris",
-            "salary": "7.7454",
-            "bonus": "7.0064",
-            "marker": "id",
-            "referal": "aliqua",
-            "active": true,
-            "status": "3.8244"
+            "salary": "7.7454"
         },
         {
             "id": 1,
             "organization": "culpa",
             "user": "officia",
-            "department": "ut",
-            "salary": "3.8108",
-            "bonus": "5.1108",
-            "marker": "Lorem",
-            "referal": "consectetur",
-            "active": true,
-            "status": "4.1593"
+            "department": "ut"
         },
         {
             "id": 2,
             "organization": "anim",
             "user": "dolore",
-            "department": "mollit",
-            "salary": "5.5231",
-            "bonus": "5.4624",
-            "marker": "deserunt",
-            "referal": "sint",
-            "active": true,
-            "status": "6.5869"
+            "department": "mollit"
         }
         
     ],
@@ -206,11 +174,7 @@
             "id": 0,
             "owner": "enim",
             "name": "laboris",
-            "display_name": "aliqua",
-            "risk": "9.788",
-            "exp": "7.4878",
-            "email": "sit",
-            "status": "9",
+            "display_name": "aliqua"
             "active": true
         },
         {
@@ -218,10 +182,6 @@
             "owner": "reprehenderit",
             "name": "aliquip",
             "display_name": "laborum",
-            "risk": "5.3106",
-            "exp": "3.1344",
-            "email": "ea",
-            "status": "3",
             "active": true
         }
     ]
