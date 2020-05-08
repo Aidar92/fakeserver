@@ -14,47 +14,7 @@
             "price": "9.93",
             "stemsId": 1,
             "reasonId": 4,
-            "adresseeId": 4,
-            "status": "voluptate proident id exercitation mollit",
-            "claim_reason": "irure qui aute exercitation culpa",
-            "comment": "laborum consequat occaecat fugiat anim",
-            "open_date": "20.01.96",
-            "close_date": "20.01.96",
-            "order_date": "20.01.96",
-            "actions": "veniam do aliquip sunt consectetur",
-            "country": "Haiti",
-            "boxe": {
-                "id": 1,
-                "name": "Ginger Poole"
-            },
-            "order": {
-                "id": 4,
-                "name": "Cleo Dalton"
-            },
-            "plantation": {
-                "id": 3,
-                "name": "Danielle Waller"
-            },
-            "client": {
-                "id": 2,
-                "name": "Herman Glover"
-            },
-            "reason": {
-                "id": 4,
-                "name": "Cleo Dalton"
-            },
-            "size": {
-                "id": 3,
-                "name": "Danielle Waller"
-            },
-            "variety": {
-                "id": 3,
-                "name": "Danielle Waller"
-            },
-            "flower": {
-                "id": 3,
-                "name": "Danielle Waller"
-            }
+            "adresseeId": 4
         },
         {
             "id": 3,
@@ -67,18 +27,7 @@
             "flowerId": 2,
             "varietyId": 2,
             "sizeId": 1,
-            "price": "9.9329",
-            "stemsId": 0,
-            "reasonId": 2,
-            "adresseeId": 4,
-            "status": "ad nostrud ipsum proident veniam",
-            "claim_reason": "esse laborum commodo officia Lorem",
-            "comment": "dolor fugiat dolore duis ut",
-            "open_date": "20.01.96",
-            "close_date": "20.01.96",
-            "order_date": "20.01.96",
-            "actions": "ullamco ut proident duis aliquip",
-            "country": "Tokelau"
+            "price": "9.9329"
         }        
     ],
     "clients": [
