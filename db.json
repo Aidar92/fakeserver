@@ -79,79 +79,7 @@
             "order_date": "20.01.96",
             "actions": "ullamco ut proident duis aliquip",
             "country": "Tokelau"
-        },
-        {
-            "id": 4,
-            "boxeId": 2,
-            "orderId": 1,
-            "plantationId": 4,
-            "clientId": 0,
-            "claim": 2,
-            "marker": "excepteur",
-            "flowerId": 3,
-            "varietyId": 4,
-            "sizeId": 0,
-            "price": "9.9329",
-            "stemsId": 0,
-            "reasonId": 4,
-            "adresseeId": 1,
-            "status": "culpa magna cillum enim aute",
-            "claim_reason": "culpa non nulla incididunt et",
-            "comment": "ipsum adipisicing non Lorem non",
-            "open_date": "20.01.96",
-            "close_date": "20.01.96",
-            "order_date": "20.01.96",
-            "actions": "adipisicing Lorem aliquip amet laboris",
-            "country": "Laos"
-        },
-        {
-            "id": 5,
-            "boxeId": 0,
-            "orderId": 1,
-            "plantationId": 3,
-            "clientId": 3,
-            "claim": 3,
-            "marker": "excepteur",
-            "flowerId": 0,
-            "varietyId": 1,
-            "sizeId": 0,
-            "price": "9.9329",
-            "stemsId": 1,
-            "reasonId": 1,
-            "adresseeId": 4,
-            "status": "enim non elit sint irure",
-            "claim_reason": "non officia velit enim labore",
-            "comment": "magna aliqua ut et eiusmod",
-            "open_date": "20.01.96",
-            "close_date": "20.01.96",
-            "order_date": "20.01.96",
-            "actions": "exercitation nisi est non do",
-            "country": "Ireland"
-        },
-        {
-            "id": 6,
-            "boxeId": 0,
-            "orderId": 2,
-            "plantationId": 2,
-            "clientId": 4,
-            "claim": 1,
-            "marker": "excepteur",
-            "flowerId": 4,
-            "varietyId": 1,
-            "sizeId": 4,
-            "price": "9.9329",
-            "stemsId": 0,
-            "reasonId": 1,
-            "adresseeId": 3,
-            "status": "culpa enim voluptate irure mollit",
-            "claim_reason": "minim culpa veniam mollit occaecat",
-            "comment": "consequat id anim sint et",
-            "open_date": "20.01.96",
-            "close_date": "20.01.96",
-            "order_date": "20.01.96",
-            "actions": "ad velit nulla fugiat consequat",
-            "country": "Virgin Islands (US)"
-        }
+        }        
     ],
     "clients": [
         {
@@ -431,55 +359,8 @@
             "referal": "sint",
             "active": true,
             "status": "6.5869"
-        },
-        {
-            "id": 3,
-            "organization": "cupidatat",
-            "user": "Lorem",
-            "department": "aliqua",
-            "salary": "6.4872",
-            "bonus": "1.598",
-            "marker": "est",
-            "referal": "ipsum",
-            "active": true,
-            "status": "5.5404"
-        },
-        {
-            "id": 4,
-            "organization": "anim",
-            "user": "ex",
-            "department": "irure",
-            "salary": "6.5474",
-            "bonus": "6.2631",
-            "marker": "excepteur",
-            "referal": "do",
-            "active": true,
-            "status": "9.8875"
-        },
-        {
-            "id": 5,
-            "organization": "Lorem",
-            "user": "aute",
-            "department": "dolore",
-            "salary": "4.5055",
-            "bonus": "0.6252",
-            "marker": "nostrud",
-            "referal": "nostrud",
-            "active": true,
-            "status": "8.8887"
-        },
-        {
-            "id": 6,
-            "organization": "anim",
-            "user": "proident",
-            "department": "ullamco",
-            "salary": "5.0822",
-            "bonus": "1.6473",
-            "marker": "aliqua",
-            "referal": "elit",
-            "active": true,
-            "status": "3.7359"
         }
+        
     ],
     "roles": [
         {
@@ -535,39 +416,6 @@
             "email": "ea",
             "status": "3",
             "active": true
-        },
-        {
-            "id": 2,
-            "owner": "reprehenderit",
-            "name": "ea",
-            "display_name": "sint",
-            "risk": "8.2102",
-            "exp": "1.3077",
-            "email": "nostrud",
-            "status": "9",
-            "active": true
-        },
-        {
-            "id": 3,
-            "owner": "anim",
-            "name": "sint",
-            "display_name": "commodo",
-            "risk": "8.7318",
-            "exp": "5.3773",
-            "email": "Lorem",
-            "status": "0",
-            "active": true
-        },
-        {
-            "id": 4,
-            "owner": "pariatur",
-            "name": "quis",
-            "display_name": "dolor",
-            "risk": "4.0724",
-            "exp": "5.1877",
-            "email": "incididunt",
-            "status": "8",
-            "active": false
         }
     ]
     
