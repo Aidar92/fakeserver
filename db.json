@@ -9,130 +9,11 @@
         },
         {
             "id": 3,
-            "boxeId": 0,
             "orderId": 4,
             "plantationId": 0,
             "price": "9.9329"
         }        
-    ],
-    "clients": [
-        {
-            "id": 0,
-            "name": "Ramirez Vasquez"
-        },
-        {
-            "id": 1,
-            "name": "Ginger Poole"
-        }
-    ],
-    "boxes": [
-        {
-            "id": 0,
-            "name": "Ramirez Vasquez"
-        },
-        {
-            "id": 1,
-            "name": "Ginger Poole"
-        }
-    ],
-    "reasons": [
-        {
-            "id": 0,
-            "name": "Ramirez Vasquez"
-        },
-        {
-            "id": 1,
-            "name": "Ginger Poole"
-        }
-    ],
-    "orders": [
-        {
-            "id": 0,
-            "name": "Ramirez Vasquez"
-        },
-        {
-            "id": 1,
-            "name": "Ginger Poole"
-        }
-    ],
-    "addressees": [
-        {
-            "id": 0,
-            "name": "Ramirez Vasquez"
-        },
-        {
-            "id": 1,
-            "name": "Ginger Poole"
-        }
-    ],
-    "plantations": [
-        {
-            "id": 0,
-            "name": "Ramirez Vasquez"
-        },
-        {
-            "id": 1,
-            "name": "Ginger Poole"
-        },
-        {
-            "id": 2,
-            "name": "Herman Glover"
-        }
-    ],
-    "labels": [
-        {
-            "id": 0,
-            "name": "Ramirez Vasquez"
-        },
-        {
-            "id": 1,
-            "name": "Ginger Poole"
-        }
-    ],
-    "flowers": [
-        {
-            "id": 0,
-            "name": "Ramirez Vasquez"
-        },
-        {
-            "id": 1,
-            "name": "Ginger Poole"
-        }
-    ],
-    "varieties": [
-        {
-            "id": 0,
-            "name": "Ramirez Vasquez"
-        },
-        {
-            "id": 1,
-            "name": "Ginger Poole"
-        }
-    ],
-    "sizes": [
-        {
-            "id": 0,
-            "name": "Ramirez Vasquez"
-        },
-        {
-            "id": 1,
-            "name": "Ginger Poole"
-        }
-    ],
-    "stems": [
-        {
-            "id": 0,
-            "name": "Ramirez Vasquez"
-        },
-        {
-            "id": 1,
-            "name": "Ginger Poole"
-        },
-        {
-            "id": 2,
-            "name": "Herman Glover"
-        }
-    ],
+    ],    
     "memberships": [
         {
             "id": 0,
@@ -155,31 +36,15 @@
         }
         
     ],
-    "roles": [
-        {
-            "id": 0,
-            "name": "Ramirez Vasquez",
-            "organizationId": 1,
-            "membershipId": 1
-        },
-        {
-            "id": 1,
-            "name": "Ginger Poole",
-            "organizationId": 1,
-            "membershipId": 1
-        }
-    ],
     "organizations": [
         {
             "id": 0,
-            "owner": "enim",
             "name": "laboris",
-            "display_name": "aliqua"
+            "display_name": "aliqua",
             "active": true
         },
         {
             "id": 1,
-            "owner": "reprehenderit",
             "name": "aliquip",
             "display_name": "laborum",
             "active": true
